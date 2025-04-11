@@ -16,4 +16,4 @@ The code and model will be available soon...
 ## References
 1. S. Kumbhare, A. Chowdhury, "Activity recognition in smart homes with knowledge graph and attention-guided learning," In: Proc. Int. Conf. Comput. Vis. Image Proc. (CVIP) (Accepted). pp. 1–14, Springer 2024.
 2. S. Das, R. Dai, M. Koperski, L. Minciullo, L. Garattoni, F. Bremond, G. Francesca, "Toyota smarthome: Real-world activities of daily living," In: Proc. IEEE Int. Conf. Comput. Vis. pp. 833–842, 2019.
-3. M. Rohrbach, A. Rohrbach, M. Regneri, S. Amin, M. Andriluka, M. Pinkal, B. Schiele, "Recognizing fine-grained and composite activities using hand-centric features and script data," In: Int. J. Comput. Vis. 119, pp. 346—-373, 2016.
+3. M. Rohrbach, A. Rohrbach, M. Regneri, S. Amin, M. Andriluka, M. Pinkal, B. Schiele, "Recognizing fine-grained and composite activities using hand-centric features and script data," In: Int. J. Comput. Vis. 119, pp. 346-373, 2016.
